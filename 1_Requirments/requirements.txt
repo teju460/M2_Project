@@ -7,12 +7,9 @@ REQUIREMENTS
       3. Light Dependent Resistor (LDR) x 2
       4. 10KΩ x 3
       5. Servo Motor
-      6. 16MHz Crystal
       7. 22pF Ceramic Capacitors x 2
       8. Push Button
-      9. Breadboard
-     10. Cardboard
-     11. Connecting Wires
+      11. Connecting Wires
 
 Software Required:
                 C-language
