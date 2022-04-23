@@ -1,0 +1,26 @@
+                                                                                                                          SUN TRACKING SOLAR PANEL
+INTRODUCTION
+                  •Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery.
+                  •The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. 
+                  •the panels are continuously placed towards the direction of the Sun. So, solar panel should continuously rotate in the direction of Sun, which absorbs energy to maximum extent.
+PRINCIPLE
+                • Two light dependent resistors are arranged on the edges of the solar panel, as they  produce low resistance when light falls on them. 
+                • The servo motor connected to the panel rotates the panel in the direction of Sun. Panel is arranged in such a way that light on two LDRs is compared and panel is rotated towards LDR which have high intensity.
+                • When the intensity of the light falling on right LDR is more, panel slowly moves towards right and if intensity on the left LDR is more, panel slowly moves towards left.
+                •  In the noon time, Sun is ahead and intensity of light on both the panels is same. In such cases, panel is constant and there is no rotation.
+WORKING
+                 • Assemble the circuit and upload the code to ATmega328 Microcontroller.
+                 •Power on the circuit and place the set up directly under the Sun (on the rooftop).
+                 •Based on the light falling on the two LDRs, the ATmega328 Microcontroller changes the position of the Servo Motor which in turn moves in the panel.
+SWOT ANALYSIS:
+          STRENGHT
+                 • Maximizes the solar energy absorption by continuously tracking the sun.
+                 •Solar energy can be reused as it is non-renewable resource.
+           WEAKNESS
+                  • Though solar energy can be utilized to maximum extent this may create problems in rainy season.
+                  • Although solar energy can be saved to batteries, they are heavy and occupy more space and required to change time to time.
+
+
+
+
+   
