@@ -1,0 +1,14 @@
+REQUIREMENTS
+
+ The basic requirements of this project is shown as below:
+
+     1. ATmega328 Micro Controller
+     2. Light Emitting Diode (LED) x 2
+     3. 10KΩ x 1
+     4. 330Ω x 2
+     5. Push Button
+
+Software Required:
+                C-language
+
+
